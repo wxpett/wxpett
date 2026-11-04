@@ -2,7 +2,7 @@
 <h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack</h4>
 
 <p align="center">
-  Focado em criar soluções eficientes, unindo front-end reativo e back-end estruturado. Buscando minha primeira oportunidade de estágio em empresas de tecnologia, mobilidade ou logística.
+  Focado em criar soluções eficientes, unindo front-end reativo e back-end estruturado. Buscando uma oportunidade de estágio em empresas de tecnologia, mobilidade ou logística.
 </p>
 
 ###  Sobre mim
