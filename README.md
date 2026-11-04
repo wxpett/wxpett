@@ -5,11 +5,11 @@
   Focado em criar soluções eficientes, unindo front-end reativo e back-end estruturado. Buscando minha primeira oportunidade de estágio em empresas de tecnologia, mobilidade ou logística.
 </p>
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante no **SENAI** (Análise e Desenvolvimento de Sistemas).
-- 💡 Construindo APIs robustas e interfaces dinâmicas e reativas.
-- ⚙️ Entusiasta de automação, qualidade de software (QA) e IA (Antigravity IDE, Gemini).
-- 🎯 Foco atual: **Node.js, Vue 3, Java e Python**.
+###  Sobre mim
+-  Estudante no **SENAI** (Análise e Desenvolvimento de Sistemas).
+-  Construindo APIs robustas e interfaces dinâmicas e reativas.
+-  Entusiasta de automação, qualidade de software (QA) e IA (Antigravity IDE, Gemini).
+-  Foco atual: **Node.js, Vue 3, Java e Python**.
 
 ### 🛠️ Minha Stack
 
