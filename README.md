@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Kauan Alejandro 👋</h1>
+<h1 align="center">Olá, meu nome é Kauan!</h1>
 <h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack</h4>
 
 <p align="center">
