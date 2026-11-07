@@ -1,17 +1,17 @@
-<h1 align="center">Olá, meu nome é Kauan!</h1>
-<h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack</h4>
+<h1 align="center">Hi, my name is Kauan!</h1>
+<h4 align="center">Systems Analysis and Development Student | Full-Stack Developer</h4>
 
 <p align="center">
-  Focado em criar soluções eficientes, unindo front-end reativo e back-end estruturado. Buscando uma oportunidade de estágio em empresas de tecnologia, mobilidade ou logística.
+  Focused on building efficient solutions by combining a reactive front-end with a structured back-end. Looking for an internship opportunity in technology, mobility, or logistics companies.
 </p>
 
-###  Sobre mim
--  Estudante no **SENAI** (Análise e Desenvolvimento de Sistemas).
--  Construindo APIs robustas e interfaces dinâmicas e reativas.
--  Entusiasta de automação, qualidade de software (QA) e IA (Antigravity IDE, Gemini).
--  Foco atual: **Node.js, Vue 3, Java e Python**.
+### About me
+- Student at **SENAI** (Systems Analysis and Development).
+- Building robust APIs and dynamic, reactive interfaces.
+- Enthusiast of automation, software quality (QA), and AI (Antigravity IDE, Gemini).
+- Current focus: **Node.js, Vue 3, Java, and Python**.
 
-### 🛠️ Minha Stack
+### 🛠️ My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-### 📬 Contato
+### 📬 Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kauan-alejandro/" target="_blank">
