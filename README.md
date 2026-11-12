@@ -8,7 +8,7 @@
 ### About me
 - Student at **SENAI** (Systems Analysis and Development).
 - Building robust APIs and dynamic, reactive interfaces.
-- Enthusiast of automation, software quality (QA), and AI (Antigravity IDE, Gemini).
+- Enthusiast of automation, software quality (QA), and AI (Antigravity IDE, Claude).
 - Current focus: **Node.js, Vue 3, Java, and Python**.
 
 ### 🛠️ My Tech Stack
